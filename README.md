@@ -4,23 +4,6 @@
 
 Olá, meu nome é Lucas Sotomaior e sou um estudante de Ciência da Computação, apaixonado por programação e novas tecnologias. Desenvolvo projetos consistentes e relevantes, me interesso por áreas como aprendizado de maquina, sistemas embarcados e robótica. Busco oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores. Acredito que minha paixão por tecnologia e minha dedicação me levarão a alcançar grandes resultados.
 
-<p align="left">
-    <a href="https://github.com/LucasSotomaiorAPereira?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucasSotomaiorAPereira?color=ffd426&style=for-the-badge&labelColor=ebbd00&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LucasSotomaiorAPereira?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasSotomaiorAPereira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
