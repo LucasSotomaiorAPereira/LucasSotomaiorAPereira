@@ -93,6 +93,15 @@ Olá, meu nome é Lucas Sotomaior e sou um estudante de Ciência da Computação
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Rust" 
+    title="Rust"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" 
+/>
+
 <br/>
 <br/>
 
